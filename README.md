@@ -69,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Chat-Application-chatengine
+
+
+
+you guys use deploy versions by credentials username - manish and password -manish by follow this link - [https://enchanting-dusk-a39cbc.netlify.app](url)
